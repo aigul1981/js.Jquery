@@ -1,0 +1,68 @@
+.sortable-ul {
+  list-style-type: none;
+  margin: 10px auto;
+  padding: 0;
+  width: 500px;
+}
+.sortable-ul li {
+  margin: 4px 0;
+  padding: 5px 10px;
+  font-size: 16px;
+}
+
+/* Стиль для перетаскиваемого элемента. */
+.sortable-ul .ui-sortable-helper {
+  box-shadow: rgba(0, 0, 0, 0.14) 10px 10px 10px -5px;
+}
+
+.bg-yellow {
+  background: #f0de98;
+  border: 1px solid #e9cf67;
+  border-left: 8px solid #e9cf67;
+}
+.bg-green {
+  background: #97e482;
+  border: 1px solid #7bdc5f;
+  border-left: 8px solid #7bdc5f;
+}
+.bg-purple {
+  background: #f296bb;
+  border: 1px solid #ee75a6;
+  border-left: 8px solid #ee75a6;
+}
+.bg-red {
+  background: #f80303;
+  border: 1px solid #f80303;
+  border-left: 8px solid #f80303;
+}
+.bg-black {
+  background: #000;
+  border: 1px solid #000;
+  border-left: 8px solid #000;
+}
+.bg-blue {
+  background: #0000ff;
+  border: 1px solid #0000ff;
+  border-left: 8px solid #0000ff;
+}
+
+.bg-orange {
+  background: #ffa500;
+  border: 1px solid #ffa500;
+  border-left: 8px solid #ffa500;
+}
+.bg-brown {
+  background: #a52a2a;
+  border: 1px solid #a52a2a;
+  border-left: 8px solid #a52a2a;
+}
+.bg-pink {
+  background: #f306d3;
+  border: 1px solid #f306d3;
+  border-left: 8px solid #f306d3;
+}
+.bg-aqua {
+  background: #0ff;
+  border: 1px solid #0ff;
+  border-left: 8px solid #0ff;
+}
